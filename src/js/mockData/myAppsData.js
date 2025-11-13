@@ -1,12 +1,26 @@
+export const illustration = {
+  src: "./assets/img/Feature Image.svg", 
+  alt: "Feature Image"
+};
+
+export const earlyAccess =
+  "Запросить ранний доступ";
+
+export const title =
+  "Превосходя все<br>ожидания";
+
+export const description =
+  "Однако кровать для помощи в путешествии неприятна. Не<br>мысли все осуществляют благословение. Снисхождение ко<br>всему, радость, изменение бурной привязанности.<br>Вечеринку мы лет на заказ разрешили.";
+
+export const earlyAccessBottom =
+  "Запросить ранний доступ";
+
+
 export const myAppsData = {
-    image: {
-        src: "./assets/img/Feature Image.svg", 
-        alt: "Feature Image"
-    },
-    content: {
-        earlyAccess: "Запросить ранний доступ",
-        title: "Превосходя все<br>ожидания",
-        description: "Однако кровать для помощи в путешествии неприятна. Не<br>мысли все осуществляют благословение. Снисхождение ко<br>всему, радость, изменение бурной привязанности.<br>Вечеринку мы лет на заказ разрешили.",
-        earlyAccessBottom: "Запросить ранний доступ"
-    }
+    illustration,
+    earlyAccess,
+    title,
+    description,
+    earlyAccessBottom,
+    
 };
