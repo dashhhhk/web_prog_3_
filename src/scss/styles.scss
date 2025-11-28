@@ -1204,6 +1204,10 @@ footer{
     align-items: center;
     text-align: center;
   }
+
+    .footer-column-link a {
+    text-align: center;
+  }
   
   .light-text {
     text-align: center;
@@ -1598,6 +1602,7 @@ footer{
     font-size: 28px;
     line-height: 35px;
     margin-bottom: 25px;
+    height: auto;
   }
   
   .blog-grid {
